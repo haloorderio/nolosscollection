@@ -9,7 +9,7 @@ name: nolosscollection | Produsen Sarung Pekalongan
 description: Menyediakan beragam motif sarung khas Pekalongan | Kirim ke Seluruh Indonesia | Siap Ekspor
 
 # Lock page
-locked: true
+locked: false
 
 # Keywords for crawling (displayed in the header)
 keywords: sarung, sarung batik, sarung motif batik, sarung batik pekalongan, sarung kekinian, sarung anak muda, sarung gaul
